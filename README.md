@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Html, Css, Javascript
 - 💞️ I’m looking to collaborate on my project Web design and Web Developement
 - 📫 How to reach me :  @itzmaxxine on instagram...
-- ⚡ Fun fact: My fav color is color Gray 
+- ⚡ Fun fact: My fav color is color Black, white and Gray 
 
 <!---
 DivineWD/DivineWD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
